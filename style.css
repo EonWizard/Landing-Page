@@ -3,6 +3,7 @@ body{
     display: flex;
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
+    margin: 0px;
     
 }
 
@@ -136,7 +137,7 @@ button{
     display: flex;
     padding: 32px;
     border-radius: 10px;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -156,4 +157,13 @@ button{
     border-radius: 8px !important;
     border: 2px solid #f9faf8
     
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 32px;
+    align-items: center;
+    color: #F9FAF8;
 }
