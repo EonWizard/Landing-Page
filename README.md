@@ -3,4 +3,12 @@
 
 
 ### Acknowledgement
- jonny-gios-Y5HjCi2SLlE-unsplash by Jonny Gios: https://unsplash.com/ja/%E5%86%99%E7%9C%9F/%E5%A4%9C%E7%A9%BA%E3%81%AB%E6%B5%AE%E3%81%8B%E3%81%B6%E7%B7%91%E3%81%A8%E7%B4%AB%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9-Y5HjCi2SLlE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash 
+ Earth: Photo by Pixabay: https://www.pexels.com/photo/41949/
+
+ Brazil: Photo by Athena Sandrini: https://www.pexels.com/photo/1804177/
+
+ Italy: Photo by Jacob Morch: https://www.pexels.com/photo/497845/
+
+ China: Photo by Manuel Joseph: https://www.pexels.com/photo/19885/
+
+ Hawaii: Photo by Jess Loiterton: https://www.pexels.com/photo/4319885/
